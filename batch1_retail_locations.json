@@ -1,0 +1,112 @@
+{
+  "riverstreetsweets.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "13 East River Street, Savannah, GA 31401; 32 E Broughton St, Savannah, GA 31401"
+  },
+  "roosroast.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "1155 Rosewood St, Ann Arbor, MI 48104; 117 E Liberty St, Ann Arbor, MI 48104"
+  },
+  "gritcoffee.com": {
+    "has_retail": true,
+    "count": 9,
+    "details": "1110 Old Trail Drive, Crozet, VA 22932; 201 W Water Street, Charlottesville, VA 22902; 19 Elliewood Ave, Charlottesville, VA 22903; 610 Riverside Shops Way #100, Charlottesville, VA 22911; 2035 Bond St Ste 185, Charlottesville, VA 22901; 1540 Jefferson Park Ave, Charlottesville, VA 22903; 409 Libbie Avenue, Richmond, VA 23226; 1621 Roseneath Rd, Richmond, VA 23230; 100 College Row Ste 2101, Williamsburg, VA 23185"
+  },
+  "loftycoffee.com": {
+    "has_retail": true,
+    "count": 6,
+    "details": "90 N Coast Hwy 101 STE 214, Encinitas, CA 92024; 97 N Coast Highway 101, Encinitas, CA 92024 (Roasting Works); 7740 El Camino Real Unit A, Carlsbad, CA (La Costa); 2742 State Street, Carlsbad, CA 92008; 444 W Cedar St, San Diego, CA 92101 (Little Italy); 132 S Cedros Ave, Solana Beach, CA 92075"
+  },
+  "and-sons.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "9548 Brighton Way, Beverly Hills, CA 90210"
+  },
+  "zcioccolato.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "474 Columbus Ave, San Francisco, CA 94133"
+  },
+  "josephsorganicbakery.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "18228 West Dixie Highway, Miami, FL 33160"
+  },
+  "sarkispastry.com": {
+    "has_retail": true,
+    "count": 3,
+    "details": "1111 S. Glendale Ave, Glendale, CA 91205; 1776 E. Washington Blvd, Pasadena, CA 91104; 2424 Ball Rd, Anaheim, CA 92804"
+  },
+  "petalumapiecompany.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "125 Petaluma Blvd N, Suite B, Petaluma, CA 94952"
+  },
+  "thebutchersblocknj.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "235 West Ave, Long Branch, NJ 07740"
+  },
+  "sonomacountymeatco.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "35 Sebastopol Avenue, Santa Rosa, CA 95407"
+  },
+  "prospectcoffee.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "92 S. Laurel Street, Ventura, CA 93001"
+  },
+  "coastroast.com": {
+    "has_retail": true,
+    "count": 3,
+    "details": "1601 25th Avenue, Gulfport, MS 39501; 2381 St. Claude Avenue, New Orleans, LA 70117 (St. Roch Market); 126 Jeff Davis Avenue, Long Beach, MS 39560 (Bankhouse Coffee)"
+  },
+  "laidrey.com": {
+    "has_retail": true,
+    "count": 3,
+    "details": "18600 Ventura Blvd, Tarzana, CA; 17034 Ventura Blvd, Encino, CA; 5021 Kanan Rd, Agoura Hills, CA"
+  },
+  "bcandy.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "3100 East Coast Hwy, Corona del Mar, CA 92625"
+  },
+  "yeolesweets.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "402 State St, Erie, PA 16501"
+  },
+  "germansausageaz.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "4900 E. Indian School Road, Phoenix, AZ 85018"
+  },
+  "stagecoachmeatcompany.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "600 West 3rd Avenue, Wiggins, CO 80654"
+  },
+  "smgeneralstore.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "139 E Wears Valley Road, Pigeon Forge, TN 37863"
+  },
+  "dreyer-farms.myshopify.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "831 Springfield Avenue, Cranford, NJ 07016"
+  },
+  "shop.goldstruckcoffee.ca": {
+    "has_retail": true,
+    "count": 3,
+    "details": "130 Cumberland Street, Toronto, ON (Yorkville Village); 133 Richmond St W, Toronto, ON; 25 Carlton Street, Toronto, ON"
+  },
+  "tenderlovingcoffee.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "365 E 6th St, Chico, CA 95928"
+  }
+}

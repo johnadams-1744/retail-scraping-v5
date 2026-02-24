@@ -1,0 +1,127 @@
+{
+  "baltimorebilliards.com": {
+    "estimate": "$200K-$450K (Low Confidence)",
+    "reasoning": "Single-location billiards specialty store in Parkville, MD. Niche retail with pool tables ($1,000-$5,000+), cues, and accessories. Limited comparable data for billiards-only retail (vs. halls). Small market, specialized product mix suggests modest revenue.",
+    "sort_key": 325
+  },
+  "frawleysvarietystore.com": {
+    "estimate": "$150K-$350K (Medium Confidence)",
+    "reasoning": "Variety store in New Albin, IA (population ~500). Established 1985, expanded from saw shop. Carries chainsaw supplies, crafts, bedding, footwear, gifts. Small town limits foot traffic; online presence (loggerchain.net) adds revenue. Typical small-town variety store range.",
+    "sort_key": 250
+  },
+  "thefurniture-nest.com": {
+    "estimate": "$300K-$600K (Medium Confidence)",
+    "reasoning": "Furniture store in Salisbury, MD. Started as mattress store 2018, expanded to furniture 2022. Limited hours (Wed by appointment, closed Tue/Sun). Single-location furniture stores typically $300K-$1M. Smaller footprint and newer expansion suggest lower end.",
+    "sort_key": 450
+  },
+  "hadleyolivia.com": {
+    "estimate": "$750K-$1.2M (High Confidence)",
+    "reasoning": "Mattress superstore in San Juan Capistrano, CA with 85+ brands, 80+ mattresses. ~20 years in business, affluent Orange County market. Industry benchmark: single mattress stores $500K-$1M; premium locations with strong brand mix can exceed $1M. 5-star Yelp, lowest-price guarantee drives volume.",
+    "sort_key": 975
+  },
+  "marksfurnituredirect.com": {
+    "estimate": "$400K-$750K (Medium Confidence)",
+    "reasoning": "Furniture store in Chatsworth, GA (rural NW Georgia). Full furniture range, 4.5-star rating, 36 reviews. Direct-to-consumer model with financing. Smaller market than metro areas; single-location furniture benchmark $300K-$1M.",
+    "sort_key": 575
+  },
+  "rework-furniture.com": {
+    "estimate": "$1.5M-$3M (Medium Confidence)",
+    "reasoning": "Office furniture showroom in Forest Park, IL (Chicago metro). New and pre-owned office furniture, B2B focus (corporate, healthcare, education). Design consultation, decommissioning, installation. Higher-ticket B2B sales; pre-owned at 70% off drives volume. Appointment-only showroom.",
+    "sort_key": 2250
+  },
+  "furnituredepot.ca": {
+    "estimate": "$800K-$1.5M (Medium Confidence)",
+    "reasoning": "Furniture store in Mississauga, ON—24 years in business, family-owned. Made-to-order from manufacturers, appointment-only. Toronto-area market, established reputation. Canadian furniture retail; single-location established stores typically $600K-$1.5M.",
+    "sort_key": 1150
+  },
+  "cheapoliberty.com": {
+    "estimate": "$250K-$500K (Medium Confidence)",
+    "reasoning": "Variety/furniture store in Liberty, MO. Limited hours (Tue-Fri 12-5, Sat 11-4). Affordable furniture focus, layaway, delivery. Described as 'hidden gem' with competitive pricing. Smaller footprint, limited hours constrain revenue.",
+    "sort_key": 375
+  },
+  "americanhomeexpress.com": {
+    "estimate": "$600K-$1.2M (Medium Confidence)",
+    "reasoning": "Furniture outlet in San Antonio, TX. Full hours (Mon-Sat 10-7, Sun 12-6). Ashley Furniture brands, bedroom, living, dining, outdoor, mattresses. Outlet pricing, larger metro market. Single-location furniture outlet in major Texas city.",
+    "sort_key": 900
+  },
+  "shop.thehotelemma.com": {
+    "estimate": "$500K-$1M (Medium Confidence)",
+    "reasoning": "Curio gift shop at luxury Hotel Emma, Pearl District San Antonio. Artisanal goods, hotel signature items ($34 ornaments to $995 boots). Captive hotel guest audience plus destination shoppers. Luxury positioning, curated inventory.",
+    "sort_key": 750
+  },
+  "royhenryvickers.com": {
+    "estimate": "$400K-$800K (High Confidence)",
+    "reasoning": "Artist-owned gallery in Tofino, BC. 500,000+ annual visitors, free admission. Paintings, prints, calendars, reproductions. Major tourist destination. High traffic with art priced from cards to original works. Established since 1986.",
+    "sort_key": 600
+  },
+  "kincaidsmusic.com": {
+    "estimate": "$500K-$1M (Medium Confidence)",
+    "reasoning": "Full-service music store in Springfield, OH—band/orchestra, guitars, drums, pro audio, pianos. Serves school districts, instrument rentals, online sales. Miami Valley's premier dealer. Music retail typically $400K-$1M for established single-location stores.",
+    "sort_key": 750
+  },
+  "shop.jessebrowns.com": {
+    "estimate": "$1.5M-$2.5M (High Confidence)",
+    "reasoning": "Outdoor specialty retailer in Charlotte SouthPark since 1970. Patagonia, On Cloud, fly fishing guides. Prime Sharon Corners location, 4.8-star rating. Established brand in affluent market. Outdoor specialty single-location in strong market can exceed $2M.",
+    "sort_key": 2000
+  },
+  "libertysafeofcollegestation.com": {
+    "estimate": "$600K-$1.2M (Medium Confidence)",
+    "reasoning": "Liberty Safes dealer in College Station, TX. Safes $599-$3,000+. B2C and professional delivery/installation. College town + surrounding area; gun safe market strong in Texas. High-ticket, lower-volume model.",
+    "sort_key": 900
+  },
+  "dreyer-farms.myshopify.com": {
+    "estimate": "$800K-$1.5M (High Confidence)",
+    "reasoning": "110-year family farm in Cranford, NJ. 6 acres, CSA with 1,300+ members, farm stand, nursery, baked goods, pick-your-own. Last farm in Union County. CSA alone at ~$400-800/season × 1,300 = $520K-$1M+; add retail, nursery, events.",
+    "sort_key": 1150
+  },
+  "tenderlovingcoffee.com": {
+    "estimate": "$200K-$400K (Medium Confidence)",
+    "reasoning": "Coffee café in Chico, CA. Limited hours (Tue-Sat 8-2, Sun 9-1). Vegan focus, craft-roasted, farmers market cart. Benchmark: suburban coffee shops $182K-$438K. Smaller city, limited hours, niche positioning.",
+    "sort_key": 300
+  },
+  "holidaywarehouse.com": {
+    "estimate": "$1M-$2.5M (Low Confidence)",
+    "reasoning": "30,000 sqft holiday showroom in Plano, TX—now closed (Jan 2024). Operating online only. At closure: premium décor (Katherine's Collection, Christopher Radko), designer collections. When open: large footprint, seasonal but high-ticket. Estimate reflects pre-closure annual; current online-only likely lower.",
+    "sort_key": 1750
+  },
+  "quiltexpressions.com": {
+    "estimate": "$400K-$800K (Medium Confidence)",
+    "reasoning": "Quilt shop in Meridian, ID. 7,000+ bolts fabric, patterns, kits. By-appointment retail + strong online (free shipping $100+). Niche but dedicated customer base. Quilt fabric retail; established shops with online can reach $500K-$1M.",
+    "sort_key": 600
+  },
+  "shoptheroselakemary.com": {
+    "estimate": "$600K-$1.1M (Medium Confidence)",
+    "reasoning": "Luxury med spa in Lake Mary, FL. 2021 Best Self Care Spa. Facials, HydraFacial, microneedling, memberships ($120/mo). Industry: single spa ~$880K average. Lake Mary affluent Orlando suburb; med spa services command premium.",
+    "sort_key": 850
+  },
+  "valowellnessspa.com": {
+    "estimate": "$400K-$750K (Medium Confidence)",
+    "reasoning": "Wellness spa in Omaha, NE. Spa treatments, Wellness Playground, tea bar, workshops, memberships. Scandinavian Hygge concept. Omaha market smaller than major metros. Day spa benchmark ~$880K; smaller/niche may be lower.",
+    "sort_key": 575
+  },
+  "chihuly-garden-and-glass.myshopify.com": {
+    "estimate": "$2M-$4M (Medium Confidence)",
+    "reasoning": "Gift shop at Chihuly Garden and Glass, Seattle Center. Major tourist attraction, year-round. Apparel, home goods, collectibles, art. Museum gift shops: ~$5-15 per visitor; Seattle Center draws millions. Premium art merchandise drives higher AOV.",
+    "sort_key": 3000
+  },
+  "theufbrand.com": {
+    "estimate": "$250K-$500K (Medium Confidence)",
+    "reasoning": "Home decor and women's clothing in Geneseo, IL (population ~6,500). Since 2014. Rustic farmhouse style, Sweet Grace fragrance. Small town limits traffic; curated boutique model.",
+    "sort_key": 375
+  },
+  "redbrickemporium.com": {
+    "estimate": "$300K-$600K (Medium Confidence)",
+    "reasoning": "Boutique in Perth, ON—home decor, fashion, Fusion Mineral Paint, Annie Sloan. Historic grain mill location. Tourist town (Lanark County). Artisanal focus, CNC laser customization. Small-town Ontario retail.",
+    "sort_key": 450
+  },
+  "goldenearsspecialtystore.com": {
+    "estimate": "$200K-$450K (Low Confidence)",
+    "reasoning": "Specialty snacking store in Maple Ridge, BC. 'Gold Standard of Snacking,' convenience/general store with nachos, milkshakes. 7am-9pm hours. Hybrid convenience + specialty snacks. Smaller format, suburban location.",
+    "sort_key": 325
+  },
+  "ezvacuum.com": {
+    "estimate": "$1M-$2.5M (Medium Confidence)",
+    "reasoning": "Vacuum parts/supplies retailer since 2007, Manassas, VA. 3M+ orders delivered, certified women-owned. Bags, belts, filters for Miele, SEBO, Hoover. Primarily e-commerce with local pickup. Replacement parts = recurring revenue; national reach from single location.",
+    "sort_key": 1750
+  }
+}

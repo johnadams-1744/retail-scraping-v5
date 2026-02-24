@@ -1,0 +1,132 @@
+{
+  "hanyangmart.com": {
+    "estimate": "$400K-$800K (Medium confidence)",
+    "reasoning": "Small Korean market in Flushing (0-25 employees, est. $0-1M per Adapt.io). 24-hour operation, attached restaurants/food vendors. Flushing foot traffic supports higher end. Asian grocery single-location benchmark: $500K-$1M.",
+    "sort_key": 600
+  },
+  "rideoutsupply.com": {
+    "estimate": "$200K-$450K (Medium confidence)",
+    "reasoning": "Single-location bike shop in Springfield, PA. Authorized SE Bikes dealer. Independent bike shop benchmark: $100K-$500K typical. Smaller market than urban areas; online presence adds revenue.",
+    "sort_key": 325
+  },
+  "madronecycles.com": {
+    "estimate": "$150K-$400K (Low confidence)",
+    "reasoning": "Bike shop in Ashland, OR; also manufactures drivetrain components (Jab Derailleur, rebuild kits). Founded 2023. Hybrid retail/manufacturing model. Small town market; component sales add revenue stream.",
+    "sort_key": 275
+  },
+  "shop.canadawidesports.com": {
+    "estimate": "$2M-$6M (Low confidence)",
+    "reasoning": "Sporting goods distributor in Saint George, ON—sells through box stores, independents, e-commerce. B2B model differs from retail. Distributor revenue typically higher; small-town HQ suggests mid-scale operation.",
+    "sort_key": 4000
+  },
+  "conciergediamonds.com": {
+    "estimate": "$1.2M-$2.5M (Medium confidence)",
+    "reasoning": "By-appointment diamond showroom in Downtown LA. Custom engagement rings, fine jewelry. Jewelry by-appointment benchmark: $1.5M-$3M. Dan Moran's media presence and competitive pricing support strong volume.",
+    "sort_key": 1850
+  },
+  "janepopejewelry.com": {
+    "estimate": "$800K-$1.8M (Medium confidence)",
+    "reasoning": "By-appointment jewelry studio in Charleston, SC. Founded 2007, women-owned, made-to-order gold jewelry. Charleston market; lower volume than LA but strong wedding/tourism demand.",
+    "sort_key": 1300
+  },
+  "gregorianrugs.com": {
+    "estimate": "$2.5M-$6M (High confidence)",
+    "reasoning": "75+ year family rug store, 40,000 sq ft showroom, 8 galleries. Newton Lower Falls (Boston metro). Oriental rug benchmark: $2M-$10M. Cleaning/repair/restoration adds recurring revenue.",
+    "sort_key": 4250
+  },
+  "bernina-jeff.myshopify.com": {
+    "estimate": "$600K-$1.2M (Medium confidence)",
+    "reasoning": "Hi Fashion Sewing Machines—Bernina/Baby Lock/Janome dealer in Grand Junction, CO. 55+ years, 2,000+ fabric bolts, repair center. Sewing machine dealers: $500K-$1.5M typical for established single-location.",
+    "sort_key": 900
+  },
+  "allegorygoods.com": {
+    "estimate": "$300K-$700K (Medium confidence)",
+    "reasoning": "Handcrafted leather goods, pens, journals in Joliet, IL. Kickstarter origins, Chicago manufacturing. Niche luxury goods; single-location craft retail benchmark: $250K-$600K.",
+    "sort_key": 500
+  },
+  "hammerlyceramics.com": {
+    "estimate": "$200K-$500K (Medium confidence)",
+    "reasoning": "Ceramics studio in Broomfield, CO. 1,400 sq ft, 134K Instagram followers. Artist-run; mugs, functional art, seasonal. Strong online sales. Artist studio benchmark: $150K-$400K.",
+    "sort_key": 350
+  },
+  "mbgourds.com": {
+    "estimate": "$800K-$1.8M (Medium confidence)",
+    "reasoning": "Meadowbrooke Gourds—20+ craftspeople, 250+ varieties, Carlisle PA. Farm, gift shop, online, nationwide retail. 30+ years. Craft manufacturer with multi-channel distribution.",
+    "sort_key": 1300
+  },
+  "polishpotterypantry.com": {
+    "estimate": "$200K-$450K (Medium confidence)",
+    "reasoning": "Polish pottery and European linens in Copperas Cove, TX. Niche specialty store; smaller market. Shares address with Country Treasures & Antiques. Single-location gift/home décor benchmark.",
+    "sort_key": 325
+  },
+  "plusskateshop.com": {
+    "estimate": "$600K-$1.2M (Medium confidence)",
+    "reasoning": "2 skate shops (Fort Walton Beach since 1987, Orlando since 2015). Skater-owned, 100% skateboarding. Two locations; independent skate shop benchmark $200K-$500K per location = $400K-$1M combined.",
+    "sort_key": 900
+  },
+  "papertrailrhinebeck.com": {
+    "estimate": "$400K-$800K (Medium confidence)",
+    "reasoning": "Boutique in Rhinebeck, NY—home goods, jewelry, gifts, 900+ products. Opened 2008. Rhinebeck tourism and affluent Hudson Valley clientele. Gift boutique benchmark: $300K-$700K.",
+    "sort_key": 600
+  },
+  "souliciousvegankitchen.com": {
+    "estimate": "$500K-$1.1M (Medium confidence)",
+    "reasoning": "2 vegan soul food locations in Orlando area (Market On South, Hall's On 5th). Founded 2018. Counter-service in food halls. Restaurant benchmark for QSR: ~$950K; food hall stalls typically $250K-$600K each.",
+    "sort_key": 800
+  },
+  "shop.drclevens.com": {
+    "estimate": "$1.5M-$2.8M (High confidence)",
+    "reasoning": "Clevens Face & Body—medical spa + plastic surgery in Melbourne and Merritt Island, FL. Full surgical and nonsurgical (Botox, fillers, CoolSculpting, etc.). Medspa benchmark: $1.4M-$2M average; surgical adds significant revenue.",
+    "sort_key": 2150
+  },
+  "thewatchmakersshop.com": {
+    "estimate": "$400K-$900K (Medium confidence)",
+    "reasoning": "Watch repair and pre-owned/new watches in Grove Arcade, Asheville. 2 certified watchmakers, Rolex/Omega/Breitling trained. Repair + retail; limited hours. Jewelry/watch repair benchmark: $300K-$800K.",
+    "sort_key": 650
+  },
+  "polleybuilding.com": {
+    "estimate": "$2M-$5M (Medium confidence)",
+    "reasoning": "Building supply in Seymour, IN since 1960. Lumber, roofing, trusses, hardware. Family operation, new ownership. Small-town LBM; single-location lumber yards: $1.5M-$5M typical.",
+    "sort_key": 3500
+  },
+  "americanladders.com": {
+    "estimate": "$1.5M-$4M (Medium confidence)",
+    "reasoning": "2 showrooms in CT (Glastonbury, Milford). Ladder and scaffold sales/rental. Specialty construction equipment; regional player. Ladder/scaffold dealers: $1M-$5M for established regional operations.",
+    "sort_key": 2750
+  },
+  "pigeonmountaintrading.com": {
+    "estimate": "$400K-$1M (Low confidence)",
+    "reasoning": "Outdoor/beekeeping gear in La Fayette, GA. May overlap with Pigeon Mountain Industries (rescue/climbing). Niche outdoor retailer; regional draw. Specialty outdoor: $300K-$900K.",
+    "sort_key": 700
+  },
+  "shop.atbgame.com": {
+    "estimate": "$300K-$700K (Medium confidence)",
+    "reasoning": "Board game store in West County Center, Des Peres, MO. Hand-crafted wooden games, licensed (NASCAR, MLB, etc.). Mall location since 2008. Specialty toy/game retail: $250K-$600K.",
+    "sort_key": 500
+  },
+  "shopify.riverboatdiscovery.com": {
+    "estimate": "$800K-$2M (Medium confidence)",
+    "reasoning": "Gift shop at Riverboat Discovery (Binkley family, 1950). ~180K seasonal visitors; salmon gift packs $45-$360, Alaskan souvenirs. Online store extends reach. Tourism gift shop benchmark: high traffic drives $500K-$1.5M+.",
+    "sort_key": 1400
+  },
+  "suzybjewelry.com": {
+    "estimate": "$1M-$2.5M (Medium confidence)",
+    "reasoning": "By-appointment NYC showroom. 30+ years experience, fine jewelry. NYC premium pricing. Jewelry benchmark: $1.5M-$3M; appointment-only may reduce volume but increase AOV.",
+    "sort_key": 1750
+  },
+  "allmarbletiles.com": {
+    "estimate": "$1M-$2.5M (Medium confidence)",
+    "reasoning": "Tile importer with Moonachie, NJ warehouse/showroom. By-appointment. Direct import of marble, porcelain, travertine. B2B and retail; metro NY delivery. Tile/stone specialty: $800K-$2M.",
+    "sort_key": 1750
+  },
+  "austinflowerdelivery.com": {
+    "estimate": "$500K-$1M (High confidence)",
+    "reasoning": "125-year Austin florist, 670+ flowers, $30-$800 range. 2025 Best Austin Florist (Condé Nast). Florist benchmark: $360K median, $500K-$1M for established shops with strong reputation.",
+    "sort_key": 750
+  },
+  "quinceflowers.com": {
+    "estimate": "$400K-$900K (Medium confidence)",
+    "reasoning": "Toronto florist—bouquets from $65, weddings, corporate, subscriptions. Retail + B2B. Canadian market; florist benchmark $360K USD (~$480K CAD). Strong corporate/wedding adds revenue.",
+    "sort_key": 650
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "lukeslocker.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "3046 Mockingbird Lane, Dallas, TX 75205; The Shops at Clearfork, 5255 Monahans Avenue, Fort Worth, TX 76109"
+  },
+  "loveshop.ca": {
+    "has_retail": true,
+    "count": 18,
+    "details": "500 Yonge Street, Toronto, ON M4Y 1X9; 1 Simcoe St. South, Oshawa, ON L1H 4G1; 267 Queen St. E, Brampton, ON L6W 2C2; 216 King George Road, Brantford, ON N3R 5L4; 596 Plains Rd. East, Unit #10, Burlington, ON L7T 2E7; 611 Hespeler Road Unit #3, Cambridge, ON N1R 6J3; 6923 Steeles Ave. West, Unit #1, Etobicoke, ON M9W 6T6; 777 Woolwich Street, Guelph, ON N1H 3Z2; 363 King St N, Waterloo, ON N2J 2Z4; 200 Centennial Parkway North, Hamilton, ON L8N 2C8; 6580 Lundy's Lane, Niagara Falls, ON L2G 1T6; 2544 Speers Road, Unit 3, Oakville, ON L6L 5W8; 55 Victoria Street North, Kitchener, ON N2H 5B7; 99 Davis Drive, Newmarket, ON L3Y 2M9; 2200 Dundas St E, Unit 8, Mississauga, ON L4X 2V3; 1790 Dundas St, London, ON; 458 Southdale Rd E, London, ON; 1615 Dundas Street East, Whitby, ON L1N 2K9"
+  },
+  "townshop.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "2270 Broadway, New York, NY 10024"
+  },
+  "mannsjewelers.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "2945 Monroe Ave, Rochester, NY 14618"
+  },
+  "qdjewelers.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "861 6th Avenue, Suite 165, San Diego, CA 92101"
+  },
+  "omarsjewelers.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "73-13A 37th Rd, Jackson Heights, NY 11372; 2048 Victory Blvd, Staten Island, NY 10314"
+  },
+  "mastshoes.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "2519 Jackson Ave, Ann Arbor, MI 48103"
+  },
+  "davesboots.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "478 Antelope Boulevard, Red Bluff, CA 96080"
+  },
+  "theheadspace.net": {
+    "has_retail": true,
+    "count": 1,
+    "details": "250 Broadway Unit 100B, Denver, CO 80203"
+  },
+  "boutiquelbismarck.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "1001 W Interstate Ave, Bismarck, ND 58503"
+  },
+  "meridianboutique.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "101 East Main Street, Bozeman, MT 59715 (Meridian Boutique Women's); 107 East Main Street, Bozeman, MT 59715 (Meridian Men)"
+  },
+  "custardboutique.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "422 Whitaker Street, Savannah, GA 31401; 718 A South Main Street, Greenville, SC 29601"
+  },
+  "boutiquesisi.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "361 Victoria Avenue, Westmount, QC H3Z 2N1, Canada"
+  },
+  "shopchictx.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "1243 Gruene Road, New Braunfels, TX 78130"
+  },
+  "shopoxfordstreet.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "15555 East 14th Street, San Leandro, CA 94578 (Bayfair Center)"
+  },
+  "fashionablyyours.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "707 Queen St W, Toronto, ON M6J 1E6, Canada"
+  },
+  "snsnola.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "3771A Gen Degaulle Dr, New Orleans, LA 70114"
+  }
+}

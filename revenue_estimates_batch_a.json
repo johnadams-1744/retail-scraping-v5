@@ -1,0 +1,127 @@
+{
+  "loveshop.ca": {
+    "estimate": "$15M-$25M (High)",
+    "reasoning": "18-26 locations across Canada, 25,000+ products, 25+ years, 1M+ customers. RocketReach estimates $18.5M. Adult retail industry fragmented; established chain with strong Ontario presence.",
+    "sort_key": 20000
+  },
+  "batlgrounds-com-online-store.myshopify.com": {
+    "estimate": "$12M-$18M (High)",
+    "reasoning": "Growjo/Owler estimate $15M annual revenue. 13 venues across Ontario and US (Toronto, Chicago, Nashville, etc.), 102 employees, $10M funding. Axe throwing venues avg $500K-$720K/location; BATL is industry leader.",
+    "sort_key": 15000
+  },
+  "gritcoffee.com": {
+    "estimate": "$12M-$18M (High)",
+    "reasoning": "Growjo estimates $14.8M annual revenue, 61 employees. 9 locations in Virginia (6 Charlottesville/UVA area, 2 Richmond, 1 Williamsburg). Coffee shop benchmark $450K-$1.6M/location; premium college town positioning.",
+    "sort_key": 15000
+  },
+  "loftycoffee.com": {
+    "estimate": "$3M-$6M (Medium)",
+    "reasoning": "6 locations in San Diego County (Encinitas, Carlsbad, La Costa, Little Italy, Solana Beach). Founded 2011, North County expansion. Coffee shop benchmark $450K-$1M/location; affluent coastal CA markets.",
+    "sort_key": 4500
+  },
+  "stickleyvirtualmarket.com": {
+    "estimate": "$80M-$120M (Medium)",
+    "reasoning": "Premium furniture brand, 125+ years. Growjo estimates $89M; sources range $5M-$631M. 5 showrooms (NY, CO, MA), 236-282 employees, manufacturing + retail. High-ticket Mission/mid-century furniture.",
+    "sort_key": 100000
+  },
+  "giftcorral.com": {
+    "estimate": "$5M-$7M (High)",
+    "reasoning": "Growjo estimates $5.8M, 32 employees. 5 locations including Bozeman airport (high-traffic), downtown Bozeman, Missoula, state park. Gift shop benchmark $727K-$1.1M/location; airport premium.",
+    "sort_key": 5800
+  },
+  "store.thearmoury.com": {
+    "estimate": "$8M-$15M (Medium)",
+    "reasoning": "Luxury menswear, 4 locations (2 NYC Tribeca/UES, 2 Hong Kong). Bespoke tailoring, Italian/Japanese craftsmanship. RocketReach shows $1M (likely outdated). Luxury retail $500-$2000/sq ft; small boutiques $2-4M each.",
+    "sort_key": 11500
+  },
+  "sarkispastry.com": {
+    "estimate": "$2.5M-$4.5M (Medium)",
+    "reasoning": "3 bakeries in CA (Glendale 1983, Anaheim 1995, Pasadena 1999). 40+ years, Armenian/Middle Eastern pastries. Bakery benchmark $450K-$1M/location; established in dense SoCal Armenian communities.",
+    "sort_key": 3500
+  },
+  "coastroast.com": {
+    "estimate": "$1.2M-$2.4M (Medium)",
+    "reasoning": "3 locations in MS/LA (Gulfport, New Orleans St. Roch Market, Long Beach). Founded 2000, small-batch roaster. Coffee benchmark $400K-$800K/location; smaller Gulf Coast markets.",
+    "sort_key": 1800
+  },
+  "laidrey.com": {
+    "estimate": "$1.5M-$3M (Medium)",
+    "reasoning": "3 LA-area cafes (Tarzana, Encino, Agoura Hills on Ventura Blvd). Organic specialty coffee, local pastries. Coffee benchmark $450K-$1M/location; suburban LA affluent corridor.",
+    "sort_key": 2250
+  },
+  "shop.goldstruckcoffee.ca": {
+    "estimate": "$1.5M-$3M (Medium)",
+    "reasoning": "3 Toronto locations (Yorkville Village, Richmond St, Carlton St). Premium specialty coffee, organic/fair-trade. Coffee benchmark $450K-$1M/location; prime Toronto urban locations.",
+    "sort_key": 2250
+  },
+  "invictajewelry.com": {
+    "estimate": "$15M-$30M (Medium)",
+    "reasoning": "3 stores (NJ, NYC Times Square, FL). LeadIQ estimates Invicta Stores $50-100M overall. Times Square flagship, extended hours. Accessible luxury watches; high-traffic tourist locations.",
+    "sort_key": 22500
+  },
+  "theanimalhouse.net": {
+    "estimate": "$4M-$8M (Medium)",
+    "reasoning": "3 pet stores in Maine (Damariscotta, Westbrook, Brunswick). Natural/holistic pet food. Pet store benchmark $2.9M avg/location; smaller Maine markets suggest $1.3-2.7M per store.",
+    "sort_key": 6000
+  },
+  "galeriajoliet.com": {
+    "estimate": "$4M-$8M (Medium)",
+    "reasoning": "2 furniture stores in Joliet, IL. Second location 20,000 sq ft at Marycrest (2024). Furniture benchmark $400-500/sq ft; 20K sq ft = ~$8-10M potential. Regional furniture store $2-4M/location typical.",
+    "sort_key": 6000
+  },
+  "recreationsoutlet.com": {
+    "estimate": "$18M-$24M (High)",
+    "reasoning": "RocketReach shows $20.2M revenue. 2-3 Ohio locations (Milford, Cincinnati, Columbus). Outdoor recreation—swings, trampolines, playsets. 2020 revenue $9.7M, 31% growth; pandemic outdoor boom.",
+    "sort_key": 21000
+  },
+  "shop.btbconsignments.com": {
+    "estimate": "$800K-$1.5M (Low)",
+    "reasoning": "2 consignment shops in Alabama (Cullman, Decatur). 23 years, 'largest consignment in North Alabama.' Consignment typically $300K-$800K/location; smaller Alabama markets.",
+    "sort_key": 1150
+  },
+  "tigertraditions.com": {
+    "estimate": "$2M-$5M (Medium)",
+    "reasoning": "2 Clemson college merch stores in SC. College retail strong on game days; Clemson has passionate fanbase. Collegiate merchandise stores typically $1-2.5M/location; depends on licensing arrangement.",
+    "sort_key": 3500
+  },
+  "omarsjewelers.com": {
+    "estimate": "$1.5M-$3M (Medium)",
+    "reasoning": "2 jewelry stores in NYC (Staten Island, Jackson Heights). 20+ years, family-owned, lab-grown diamonds. Jewelry stores in outer boroughs typically $750K-$1.5M/location.",
+    "sort_key": 2250
+  },
+  "meridianboutique.com": {
+    "estimate": "$1M-$2.5M (Medium)",
+    "reasoning": "2 boutiques in Bozeman, MT. 30+ years, women's lifestyle. Boutique benchmark $500K-$1.2M/location; Bozeman growing but smaller market.",
+    "sort_key": 1750
+  },
+  "custardboutique.com": {
+    "estimate": "$1.5M-$3M (Medium)",
+    "reasoning": "2 boutiques (Savannah 2008, Greenville 2012). Designer clothing, accessories. Boutique benchmark $500K-$1.5M/location; Savannah tourist traffic, Greenville growing.",
+    "sort_key": 2250
+  },
+  "riverstreetsweets.com": {
+    "estimate": "$20M-$35M (High)",
+    "reasoning": "Owler estimates $21.9M; pralines alone $30M+ annually. 50 years, Savannah-based. User lists 2 Savannah stores but company has broader Southeast presence + mail order. Major regional candy brand.",
+    "sort_key": 27500
+  },
+  "roosroast.com": {
+    "estimate": "$1.5M-$3M (Medium)",
+    "reasoning": "2 Ann Arbor locations + wholesale/online. Founded early 2000s, solar-powered roaster. Coffee roaster/cafe hybrid; Ann Arbor strong coffee market. $750K-$1.5M per location estimate.",
+    "sort_key": 2250
+  },
+  "lukeslocker.com": {
+    "estimate": "$4M-$8M (Medium)",
+    "reasoning": "2 running stores (Dallas Mockingbird, Fort Worth West 7th). Had $34M with 4 stores in 2016; post-2017 bankruptcy retrenched. Running specialty $2-4M/location in major TX metros.",
+    "sort_key": 6000
+  },
+  "loennursery.com": {
+    "estimate": "$2M-$4M (Low)",
+    "reasoning": "2 locations in Sherwood, OR. Family-owned since 1987, wholesale + retail garden center. Nursery/garden center typically $1-2M/location; contractors yard + retail hybrid.",
+    "sort_key": 3000
+  },
+  "shop.howlerbikepark.com": {
+    "estimate": "$1.5M-$3M (Low)",
+    "reasoning": "2 Missouri locations (Walnut Shade bike park, Springfield bike shop). Opened May 2022. Mountain bike park + retail; seasonal revenue. Recreation/attraction hybrid; newer business.",
+    "sort_key": 2250
+  }
+}
