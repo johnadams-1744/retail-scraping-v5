@@ -1,0 +1,112 @@
+{
+  "store.thearmoury.com": {
+    "has_retail": true,
+    "count": 4,
+    "details": "168 Duane Street, New York, NY 10013 (Tribeca); 13 East 69th Street, New York, NY 10021 (Upper East Side); 501 Pedder Building, 12 Pedder Street, Central, Hong Kong (Pedder Arcade); Rosewood Hotel, Floor 55, 18 Salisbury Road, Tsim Sha Tsui, Hong Kong (Carlyle Club, by appointment)"
+  },
+  "baltimorebilliards.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "8906 Waltham Woods Rd, Parkville, MD 21234"
+  },
+  "frawleysvarietystore.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "225 Main Street SW, New Albin, IA 52160"
+  },
+  "thefurniture-nest.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "329 Civic Ave, Salisbury, MD 21804 (Twilley Shopping Center)"
+  },
+  "galeriajoliet.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "692 Theodore St #A, Joliet, IL 60435; 2134 West Jefferson Street, Joliet, IL 60435 (Marycrest Shopping Center)"
+  },
+  "hadleyolivia.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "31896 Plaza Drive Suite D1, San Juan Capistrano, CA 92675"
+  },
+  "marksfurnituredirect.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "2180 GI Maddox Parkway Suite A, Chatsworth, GA 30705"
+  },
+  "rework-furniture.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "7550 Roosevelt Rd, Forest Park, IL 60130 (showroom by appointment)"
+  },
+  "furnituredepot.ca": {
+    "has_retail": true,
+    "count": 1,
+    "details": "6075 Mavis Rd, Mississauga, ON L5R 4G6 (Heartland Town Centre)"
+  },
+  "cheapoliberty.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "1915 Industrial Dr, Liberty, MO 64068"
+  },
+  "americanhomeexpress.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "4722 Eisenhauer Rd #105, San Antonio, TX 78218"
+  },
+  "shop.thehotelemma.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "136 E. Grayson Street, San Antonio, TX 78215 (Curio gift shop at Hotel Emma, Pearl District)"
+  },
+  "royhenryvickers.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "350 Campbell Street, Tofino, BC V0R 2Z0 (Eagle Aerie Gallery)"
+  },
+  "kincaidsmusic.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "1325 W 1st St, Springfield, OH 45504"
+  },
+  "shop.jessebrowns.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "4732 Sharon Road, Suite 2M, Charlotte, NC 28210 (Sharon Corners at SouthPark)"
+  },
+  "libertysafeofcollegestation.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "1055 Texas Ave S, Suite 104, College Station, TX 77840"
+  },
+  "recreationsoutlet.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "885 Business 28, Milford, OH 45150 (Cincinnati area); 484 W Olentangy/Powell Road, Powell, OH 43065 (Columbus area)"
+  },
+  "shop.btbconsignments.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "1820-A2 6th Avenue SE, Decatur, AL 35601 (Gateway Shopping Center); 124 4th Street Southwest, Cullman, AL 35055"
+  },
+  "giftcorral.com": {
+    "has_retail": true,
+    "count": 5,
+    "details": "237 E. Main St., Bozeman, MT 59715 (Historic Downtown); 1500 N. 7th Ave., Bozeman, MT 59715 (Bozeman Walmart); 850 Gallatin Field Road, Belgrade, MT 59714 (Bozeman Yellowstone International Airport); 117 W. Front Street, Missoula, MT 59802 (Downtown Missoula); 1455 Hwy. 2 E., Whitehall, MT 59759 (Lewis & Clark Caverns State Park, seasonal)"
+  },
+  "tigertraditions.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "5134 Sunset Blvd., Lexington, SC 29072 (Traditions Fine Jewelers); 481 Town Center Place, Columbia, SC 29229 (Village of Sandhill)"
+  },
+  "holidaywarehouse.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "2819 W 15th St, Plano, TX 75075 (30,000 sq ft showroom)"
+  },
+  "quiltexpressions.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "1200 East Watertower Street, Suite 120, Meridian, ID 83642 (by appointment)"
+  }
+}
