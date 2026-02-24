@@ -1,0 +1,32 @@
+{
+  "shop.howlerbikepark.com": {
+    "has_retail": true,
+    "count": 2,
+    "details": "3410 US-65, Walnut Shade, MO 65771 (Welcome Center, bike shop, retail); 615 S Pickwick Ave, Springfield, MO 65802 (Howler Bike Co.)"
+  },
+  "allmarbletiles.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "175 Moonachie Rd, Moonachie, NJ 07074 (showroom, by appointment)"
+  },
+  "pigeonmountaintrading.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "106 N Main St, La Fayette, GA 30728"
+  },
+  "shop.atbgame.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "119 West County Center, Suite 2085, Des Peres, MO"
+  },
+  "shopify.riverboatdiscovery.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "1975 Discovery Dr, Fairbanks, AK 99709 (Discovery Trading Post gift shop)"
+  },
+  "suzybjewelry.com": {
+    "has_retail": true,
+    "count": 1,
+    "details": "New York City showroom (by appointment)"
+  }
+}
