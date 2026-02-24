@@ -1,0 +1,127 @@
+{
+  "townshop.com": {
+    "estimate": "$9.5M-$10.5M (High)",
+    "reasoning": "4,000 sq ft Upper West Side NYC location since 1933; publicly reported ~$10.1M annual revenue and 10 employees; iconic lingerie store with premium brands (Wacoal, Chantelle, Prima Donna); prime Broadway/82nd St foot traffic; industry-leading revenue per sq ft for specialty retail.",
+    "sort_key": 10000
+  },
+  "mannsjewelers.com": {
+    "estimate": "$1.8M-$2.5M (Medium)",
+    "reasoning": "Family-owned since 1836, Rochester NY; Brighton/Pittsford affluent suburb location; engagement rings, custom jewelry, in-house goldsmiths; industry benchmark for single-location jewelry $1.5M-$3M; established reputation but smaller metro than major cities.",
+    "sort_key": 2150
+  },
+  "qdjewelers.com": {
+    "estimate": "$2.2M-$3.2M (Medium)",
+    "reasoning": "San Diego fine jewelry since 1993; carries Tiffany, Cartier, BVLGARI, Chopard; luxury positioning with buy/trade services; San Diego market supports premium jewelry; above-average for single-location given brand mix and 30+ year tenure.",
+    "sort_key": 2700
+  },
+  "romansjewelry.com": {
+    "estimate": "$1.2M-$1.8M (Medium)",
+    "reasoning": "2 stores in Folsom and Placerville, CA; family-owned fine jewelry, vintage, custom design, repairs; smaller Gold Country markets but established presence; Tue-Sat hours suggest moderate volume; industry benchmark ~$600K-$900K per location for smaller markets.",
+    "sort_key": 1500
+  },
+  "mastshoes.com": {
+    "estimate": "$350K-$550K (Medium)",
+    "reasoning": "Ann Arbor MI comfort shoe specialist; Brooks, Dansko, Birkenstock, Ecco; Tue-Sat only limits volume; Ann Arbor educated/affluent demographic; mid-size shoe store benchmark $180K-$720K; professional fitting service drives higher AOV.",
+    "sort_key": 450
+  },
+  "davesboots.com": {
+    "estimate": "$400K-$650K (Medium)",
+    "reasoning": "Red Bluff CA since 1990; 40+ boot brands, work/western/hunting specialty; boot repair adds revenue stream; rural Northern CA but niche expertise attracts regional customers; Mon-Sat hours; specialty boot stores often outperform general shoe stores.",
+    "sort_key": 525
+  },
+  "theheadspace.net": {
+    "estimate": "$300K-$500K (Low)",
+    "reasoning": "Denver streetwear/rave wear single location; niche market with online presence; hoodies, graphic tees, specialty items; boutique benchmark $50K-$500K; Denver growing market but limited store visibility in search results.",
+    "sort_key": 400
+  },
+  "boutiquelbismarck.com": {
+    "estimate": "$200K-$400K (Medium)",
+    "reasoning": "Bismarck ND women's boutique since 2013; physical store at W Interstate Ave plus online/Facebook Live; Midwest fashion brands; smaller metro limits ceiling; boutique benchmark for secondary markets.",
+    "sort_key": 300
+  },
+  "boutiquesisi.com": {
+    "estimate": "$400K-$700K (Medium)",
+    "reasoning": "Westmount QC since 1999; affluent Montreal suburb; fashion + dance apparel dual concept; Victoria Ave location; serves Canada-wide online; Westmount high-income demographic supports premium pricing.",
+    "sort_key": 550
+  },
+  "shopchictx.com": {
+    "estimate": "$350K-$600K (Medium)",
+    "reasoning": "New Braunfels TX (HillBilly Chic & Chic Shack); clothing, jewelry, home décor; tourist-adjacent (Gruene, river); Tue-Sun extended hours; Texas boutique with Western aesthetic appeals to local and visitor traffic.",
+    "sort_key": 475
+  },
+  "shopoxfordstreet.com": {
+    "estimate": "$800K-$1.4M (Medium)",
+    "reasoning": "BayFair Center San Leandro CA; sneaker boutique—Nike, Jordan, Adidas, UGG; mall location with steady traffic; Bay Area sneaker market strong; extended mall hours; sneaker boutiques often $500-$800/sq ft in strong markets.",
+    "sort_key": 1100
+  },
+  "fashionablyyours.com": {
+    "estimate": "$500K-$900K (Medium)",
+    "reasoning": "Toronto designer consignment on Queen St W since 2009; luxury handbags, designer apparel; 50-70% consignment split; celebrity stylist founder; consignment model has lower COGS; Toronto fashion market; limited hours (closed Wed).",
+    "sort_key": 700
+  },
+  "snsnola.com": {
+    "estimate": "$250K-$450K (Medium)",
+    "reasoning": "New Orleans Algiers neighborhood; shoes + Mardi Gras apparel; Mon-Sat; extended sizing niche; smaller footprint; New Orleans market but off-tourist-path location limits walk-in traffic.",
+    "sort_key": 350
+  },
+  "and-sons.com": {
+    "estimate": "$1.2M-$2.0M (High)",
+    "reasoning": "Beverly Hills chocolatier, one block from Rodeo Drive; 2nd gen since 1983; Nate Berkus design, Chef from French Laundry; luxury bonbons, nationwide shipping, corporate gifting; Beverly Hills premium pricing; café component adds revenue.",
+    "sort_key": 1600
+  },
+  "zcioccolato.com": {
+    "estimate": "$600K-$1.0M (Medium)",
+    "reasoning": "San Francisco Columbus Ave (North Beach); handmade fudge, truffles; Cooking Channel featured; extended hours (11am-10pm Thu-Sat); tourist + local traffic; chocolate shop benchmark $420K-$600K; SF pricing premium.",
+    "sort_key": 800
+  },
+  "josephsorganicbakery.com": {
+    "estimate": "$400K-$700K (Medium)",
+    "reasoning": "Miami—only US ancient grain wholegrain bakery; Kamut/Einkorn bread $20-22; Mon-Fri 12-7, closed weekends; nationwide shipping; niche health-conscious market; limited hours cap volume; premium pricing offsets.",
+    "sort_key": 550
+  },
+  "petalumapiecompany.com": {
+    "estimate": "$350K-$550K (Medium)",
+    "reasoning": "Petaluma CA since 2010; sweet/savory pies $8.50-$10; Tue-Sun; farm-to-table, catering, weddings; Sonoma County affluent food culture; bakery benchmark $300K-$430K for established single location.",
+    "sort_key": 450
+  },
+  "thebutchersblocknj.com": {
+    "estimate": "$1.5M-$2.5M (Medium)",
+    "reasoning": "Long Branch NJ—restaurant + whole-animal butcher; dry-aged Wagyu, prime cuts; lunch only Tue-Sat; Block Shop retail/delivery; dual revenue streams; Jersey Shore affluent clientele; butcher benchmark $800K+; restaurant adds significant revenue.",
+    "sort_key": 2000
+  },
+  "sonomacountymeatco.com": {
+    "estimate": "$1.2M-$2.0M (High)",
+    "reasoning": "Santa Rosa CA; best butcher Sonoma County 9 years; grass-fed, regenerative; retail + cut & wrap processing + subscriptions; NorCal #1 distributor for ranchers; butcher benchmark $800K+; processing adds substantial B2B revenue.",
+    "sort_key": 1600
+  },
+  "prospectcoffee.com": {
+    "estimate": "$350K-$550K (Medium)",
+    "reasoning": "Ventura CA since 2014; specialty roaster + coffee bar; wholesale program; single-origin focus; coffee shop benchmark $300K-$500K; roastery adds B2B revenue; Ventura smaller market.",
+    "sort_key": 450
+  },
+  "bcandy.com": {
+    "estimate": "$500K-$850K (Medium)",
+    "reasoning": "Corona del Mar CA; candy + homemade ice cream + gifts; affluent Newport Beach area; family destination; candy store benchmark $240K-$600K; high-traffic tourist area; extended weekend hours.",
+    "sort_key": 675
+  },
+  "yeolesweets.com": {
+    "estimate": "$350K-$550K (Medium)",
+    "reasoning": "Erie PA downtown, 35+ years; famous scoop cookies, baked goods; Mon-Sat; local delivery, nationwide shipping, weddings; bakery benchmark; established community loyalty; smaller Rust Belt market.",
+    "sort_key": 450
+  },
+  "germansausageaz.com": {
+    "estimate": "$600K-$1.0M (Medium)",
+    "reasoning": "Phoenix since 1982; authentic German deli; Tue-Sat; nationwide shipping; 232+ reviews, 4.7 rating; Phoenix metro 5M+; niche but loyal customer base; deli/butcher hybrid benchmark.",
+    "sort_key": 800
+  },
+  "stagecoachmeatcompany.com": {
+    "estimate": "$400K-$700K (Medium)",
+    "reasoning": "Wiggins CO (pop ~1,400); custom processing + retail; quarter/half/whole beef; 30+ sausage flavors; Mon-Fri only; rural but serves regional ranchers; 5.0 Yelp; processing revenue supplements retail.",
+    "sort_key": 550
+  },
+  "smgeneralstore.com": {
+    "estimate": "$600K-$1.2M (Medium)",
+    "reasoning": "Pigeon Forge TN tourist corridor; vintage collegiate, antiques, TN jams, boutique clothing; Wears Valley Rd near Parkway; 12M+ Smoky Mountains visitors annually; gift/specialty benchmark for tourist retail; Craft & Gift sector $158M citywide.",
+    "sort_key": 900
+  }
+}
