@@ -692,3 +692,307 @@ Both locations are large showrooms selling outdoor play equipment (wooden swing 
 All seven single-location entries were confirmed accurate:
 - Concierge Diamonds, Elisabeth Weinstock, Zero Fitness US, Pigeon Mountain Trading, LAND Moto -- all 1-location claims verified
 - Luke's Locker, Recreations Outlet -- both 2-location claims verified with exact address matches
+
+---
+
+## Phase 4 Audit: Brand-Owned Retail Location Deep Verification
+
+**Audit Date:** February 25, 2026
+**Method:** Web search verification of each business's claimed retail locations against the specific domain listed in the dataset. For each, searched "[business name] [city] store" and "site:[domain] locations" to confirm physical locations exist and are correctly attributed.
+
+### Phase 4 Summary
+
+| # | Business | Domain | Claimed | Status | Verdict |
+|---|----------|--------|---------|--------|---------|
+| 1 | Fashionably Yours | fashionablyyours.com | 1 (707 Queen St W, Toronto) | Store confirmed on domain | CORRECT |
+| 2 | Chesapeake Billiards | www.baltimorebilliards.com | 2 (Parkville + Bel Air MD) | Both showrooms confirmed on domain | CORRECT |
+| 3 | Jesse Brown's Outdoors | shop.jessebrowns.com | 1 (Charlotte NC SouthPark) | Store exists but belongs to jessebrowns.com | WRONG (subdomain issue) |
+| 4 | American Ladders & Scaffolds | americanladders.com | 2 (Glastonbury + Milford CT) | Both showrooms confirmed on domain | CORRECT |
+| 5 | Rarify | rarify.co | 1 (Philadelphia showroom) | Showroom confirmed on domain | CORRECT |
+| 6 | Meadowbrooke Gourds | www.mbgourds.com | 1 (Carlisle PA) | Retail gift shop confirmed on domain | CORRECT |
+| 7 | CYSM PRO | cysmpro.com | 1 (Huntington Park CA) | Store exists but listed on cysm.com, not cysmpro.com | WRONG (domain attribution) |
+| 8 | Hadley Olivia Mattress | www.hadleyolivia.com | 1 (San Juan Capistrano CA) | Store confirmed on domain | CORRECT |
+| 9 | Cheapo Depot 2 | cheapoliberty.com | 1 (Liberty MO) | Store confirmed on domain | CORRECT |
+| 10 | The Headspace | theheadspace.net | 1 (Denver CO) | Clothing store confirmed on domain | CORRECT |
+| 11 | Elephant Floors | elephantfloors.shop | 1 (Sunnyvale CA) | Showroom confirmed on domain | CORRECT |
+| 12 | thewatchmakersshop | www.thewatchmakersshop.com | 1 (Asheville NC) | Watch shop confirmed on domain | CORRECT |
+| 13 | Allison Craft Designs | www.allisoncraftdesigns.com | 1 (Key West FL "inside Margaritaville") | Store exists but address/location is wrong | WRONG (address correction) |
+| 14 | Mercedes Campuzano | mercedescampuzano.us | 2 (Bogota + Medellin Colombia) | US domain is e-commerce only; stores belong to parent brand | WRONG (domain attribution) |
+| 15 | Noir Leather | noirleather.com | 1 (Royal Oak MI) | Store confirmed on domain | CORRECT |
+
+**Accuracy Rate:** 10/15 (67%) -- 5 entries need correction
+
+---
+
+### Phase 4 Detailed Findings
+
+### P4-1. Fashionably Yours | fashionablyyours.com | 1 location claimed -- CORRECT
+
+**Claimed:** 1 consignment store at 707 Queen St W, Toronto.
+
+**What we found:** fashionablyyours.com/pages/contact-us confirms a physical boutique at **707 Queen St W, Toronto, ON M6J 1E6**. The store is open Mon-Tue 12-6pm, Thu-Fri 12-7pm, Sat 12-7pm, Sun 12-6pm (closed Wed). Phone: 647.802.9687. It is a designer consignment boutique specializing in pre-loved luxury handbags, designer apparel, shoes, and accessories. Founded in 2009 by a celebrity stylist. Accepts in-person consignment items and walk-in shoppers.
+
+**Verdict: CORRECT.** 1 brand-owned consignment store confirmed at the claimed address on the claimed domain.
+
+---
+
+### P4-2. Chesapeake Billiards | www.baltimorebilliards.com | 2 locations claimed -- CORRECT
+
+**Claimed:** 2 brand-owned showrooms in Parkville and Bel Air, MD.
+
+**What we found:** baltimorebilliards.com/pages/contact-us lists exactly 2 showrooms:
+
+1. **Parkville Showroom** -- 8906 Waltham Woods Rd, Parkville, MD 21234. Phone: (443) 564-8922 / (410) 870-0472. Hours: Mon-Fri 12-7pm, Sat 11am-5pm. Features 100+ cues on display plus pool tables and game room equipment.
+2. **Bel Air Showroom** -- 5 South Bel Air Parkway, Bel Air, MD. Hours: Wed-Fri 12-7pm, Sat 12-6pm, Sun 12-4pm. Specializes in used/pre-owned pool tables; warehouse showroom open by appointment and regular hours.
+
+Both are brand-owned showrooms operated by the same family business. 4.8-star rating with 65+ reviews.
+
+**Verdict: CORRECT.** 2 brand-owned showrooms confirmed at the claimed locations on the claimed domain.
+
+---
+
+### P4-3. Jesse Brown's Outdoors | shop.jessebrowns.com | 1 location claimed -- WRONG (subdomain issue)
+
+**Claimed:** 1 store at 4732 Sharon Rd, Charlotte NC (SouthPark area), attributed to shop.jessebrowns.com.
+
+**What we found:** The physical store is real and has been operating since 1970 at **4732 Sharon Rd, Suite 2M, Charlotte, NC 28210** in the Sharon Corners Shopping Center. Hours: Mon-Sat 10am-6pm, Sun 12-5pm. Phone: (704) 556-0020.
+
+However, the store location is listed on the **parent domain** jessebrowns.com (specifically jessebrowns.com/find-us/), not on shop.jessebrowns.com. The subdomain shop.jessebrowns.com is the e-commerce storefront. While the subdomain's returns page does reference the Charlotte address as a mailing/returns address, it does not have a dedicated store locator or "visit us" page.
+
+**Why this matters:** This is the same pattern identified in Phase 1 (store.thearmoury.com, shop.mcintoshlabs.com) and Phase 2 (shop.thehotelemma.com, etc.) where e-commerce subdomains are credited with the parent brand's physical locations. The retail store belongs to jessebrowns.com, not shop.jessebrowns.com.
+
+**Verdict: WRONG -- subdomain attribution error.** The store is real but belongs to jessebrowns.com, not the e-commerce subdomain. For shop.jessebrowns.com specifically, the correct count is **0**. The dataset should either change the domain to jessebrowns.com or set locations to 0.
+
+---
+
+### P4-4. American Ladders & Scaffolds | americanladders.com | 2 locations claimed -- CORRECT
+
+**Claimed:** 2 showrooms in Glastonbury and Milford, CT.
+
+**What we found:** americanladders.com lists exactly 2 locations:
+
+1. **Glastonbury** -- 129 Kreiger Lane, Glastonbury, CT. Phone: (860) 657-9252.
+2. **Milford (New Haven/Fairfield Warehouse & Showroom)** -- 279 Woodmont Road, Milford, CT 06460. Phone: (203) 783-1464. Hours: Mon-Fri 8am-4:30pm. Customer pick-up and delivery available.
+
+Both are warehouse/showroom facilities. This is the main brand domain (not a subdomain), and it directly lists both locations.
+
+**Verdict: CORRECT.** 2 brand-owned showrooms confirmed at the claimed addresses on the claimed domain.
+
+---
+
+### P4-5. Rarify | rarify.co | 1 location claimed -- CORRECT
+
+**Claimed:** 1 Philadelphia showroom at 735 Bainbridge St.
+
+**What we found:** rarify.co/pages/our-space confirms a showroom at **735 Bainbridge St., Philadelphia, PA 19147**. Phone: +1 215 821 7128. The showroom is confirmed open to the public (announced on Instagram in early 2025). Rarify is a vintage and contemporary furniture marketplace specializing in curated design pieces (12,000+ items). They also maintain 80,000 sqft of storage/showroom in rural Pennsylvania, but the Philadelphia location is the primary public-facing showroom.
+
+**Verdict: CORRECT.** 1 brand-owned showroom confirmed at the claimed address on the claimed domain, open to the public.
+
+---
+
+### P4-6. Meadowbrooke Gourds | www.mbgourds.com | 1 location claimed -- CORRECT
+
+**Claimed:** 1 retail location in Carlisle, PA.
+
+**What we found:** mbgourds.com/pages/visit-us confirms a physical retail destination at **125 Potato Rd, Carlisle, PA 17015**. This is decidedly a retail store, not just a workshop:
+
+- **7,000 sq ft gift shop** filled with hand-crafted gourd designs, artisan goods, raw gourds, seeds, and crafts
+- Regular retail hours: Mon 10am-4pm, Tue-Sat 10am-5pm, Sun 12-4pm
+- In-store shopping and pick-up available
+- Free farm tours every Tuesday at 2pm
+- Seasonal events (Summer Celebration, sunflower picking)
+- Located on a 200-acre farm (the world's largest gourd farm)
+
+The "Visit Us" page, retail hours, and gift shop description all confirm this is a genuine retail store open to the public, not merely a private workshop.
+
+**Verdict: CORRECT.** 1 brand-owned retail gift shop confirmed at Carlisle PA. It is a real retail store, not just a workshop.
+
+---
+
+### P4-7. CYSM PRO | cysmpro.com | 1 location claimed -- WRONG (domain attribution issue)
+
+**Claimed:** 1 brand-owned store at 5807 Pacific Blvd, Huntington Park, CA, attributed to cysmpro.com.
+
+**What we found:** The Huntington Park store at **5807 Pacific Blvd, Huntington Park, CA 90255** is confirmed to exist. It's open Mon-Fri 8:30am-6pm, phone (888) 568-6776, with in-store shopping, curbside pickup, and expert fitting services.
+
+However, this store is listed on **cysm.com** (the main retail domain), not on **cysmpro.com**:
+
+- **cysm.com** = main retail/consumer domain; blog post at cysm.com/blogs/cysm-news/ describes the Huntington Park store; contact page lists the address
+- **cysmpro.com** = "CYSM PRO - Colombia y su Moda **Mayoristas**" (wholesalers); this is the professional/wholesale ordering portal
+- **cysmwholesale.com** = dedicated wholesale application and catalog site
+
+A `site:cysmpro.com` search for store/location returned **no results**. The cysmpro.com domain appears to function as a wholesale ordering site for professional/business buyers ("Mayoristas"), not as the consumer-facing retail brand. The physical store is branded as "CYSM Shapers" and documented on cysm.com.
+
+**Verdict: WRONG -- domain attribution error.** The store exists but belongs to cysm.com (the retail domain), not cysmpro.com (the wholesale/pro domain). For cysmpro.com specifically, the correct retail location count is **0**. The dataset should either change the domain to cysm.com or set locations to 0.
+
+---
+
+### P4-8. Hadley Olivia Mattress | www.hadleyolivia.com | 1 location claimed -- CORRECT
+
+**Claimed:** 1 mattress store at 31896 Plaza Suite D1, San Juan Capistrano, CA.
+
+**What we found:** hadleyolivia.com confirms a physical mattress superstore at **31896 Plaza, Suite D1, San Juan Capistrano, CA 92675**:
+
+- Phone: (949) 488-8000 / 1-800-413-8090
+- Hours: Mon-Sat 10am-7pm, Sun 11am-5pm
+- Carries 80+ mattress brands (Tempur-Pedic, Aireloom, Kluft, Avocado, Beautyrest, etc.)
+- Family-owned since 2005 (started as Comfort Gallery)
+- Offers 120-day sleep trial, personalized comfort fittings, VIP White Glove delivery
+- 4.9 stars with 240+ reviews
+
+**Verdict: CORRECT.** 1 brand-owned mattress superstore confirmed at the claimed address on the claimed domain.
+
+---
+
+### P4-9. Cheapo Depot 2 | cheapoliberty.com | 1 location claimed -- CORRECT
+
+**Claimed:** 1 store in Liberty, MO.
+
+**What we found:** cheapoliberty.com confirms a physical furniture store at **1915 Industrial Drive, Liberty, MO 64068** (Oakwood Business Park):
+
+- Phone: (816) 289-0749
+- Hours: Tue-Fri 12-5pm, Sat 11am-4pm (closed Sun-Mon)
+- Sells sofas, sectionals, bedroom sets, dining sets, mattresses, accent pieces
+- Offers financing and delivery
+- Positive customer reviews praising affordability and service
+
+**Verdict: CORRECT.** 1 brand-owned store confirmed at Liberty, MO on the claimed domain. This is a real furniture store.
+
+---
+
+### P4-10. The Headspace | theheadspace.net | 1 location claimed -- CORRECT
+
+**Claimed:** 1 retail store in Denver, CO.
+
+**What we found:** theheadspace.net/pages/denver-store confirms a physical retail store at **250 N Broadway, Denver, CO 80203**. Phone: (678) 490-4218.
+
+**Importantly, this is NOT a cannabis dispensary.** The Headspace is a clothing and apparel retailer selling "heady, ravewear and streetwear" -- hoodies, t-shirts, joggers, leggings, dresses, and accessories for men and women. The "headspace" branding refers to festival/rave culture aesthetics, not cannabis. The store offers free shipping on orders over $150 and has both an online and physical retail presence.
+
+**Verdict: CORRECT.** 1 brand-owned clothing/streetwear retail store confirmed in Denver, CO. It is a legitimate apparel retailer, not a cannabis dispensary or similar.
+
+---
+
+### P4-11. Elephant Floors | elephantfloors.shop | 1 location claimed -- CORRECT
+
+**Claimed:** 1 flooring showroom in Sunnyvale, CA.
+
+**What we found:** elephantfloors.shop confirms a physical showroom at **950 E El Camino Real, Sunnyvale, CA 94087**:
+
+- Hours: Mon-Sat 9am-5pm
+- Phone: +1 408-222-5878
+- Named "Best Flooring Store of Sunnyvale 2022"
+- 200+ five-star reviews, A+ BBB rating
+- Sells hardwood, vinyl, laminate, engineered wood, bamboo flooring
+- Founded 2018 by Dan Grigin, operated by ASNO Corp
+- Also has elephantfloors.net as a secondary domain
+
+The .shop domain itself references the showroom address in blog posts and product pages. This is the main e-commerce domain for the brand and it does integrate the physical showroom location.
+
+**Verdict: CORRECT.** 1 brand-owned flooring showroom confirmed at Sunnyvale, CA on the claimed domain.
+
+---
+
+### P4-12. thewatchmakersshop | www.thewatchmakersshop.com | 1 location claimed -- CORRECT
+
+**Claimed:** 1 watch shop in Asheville, NC.
+
+**What we found:** thewatchmakersshop.com confirms a physical watch shop at **1 Page Ave, Suite 119, Asheville, NC** (inside the Historic Grove Arcade):
+
+- Hours: Mon-Sat 12-5pm (closed Sundays)
+- Phone: 828.254.0011
+- Operating since 2010, owned by Justin Harrell (Swiss-trained, Rolex-certified)
+- Employs two Certified Watchmakers
+- Sells pre-owned watches (Rolex, Omega, Tag Heuer) and new watches (Frederique Constant, Damasko, Marathon, Casio, Bertucci)
+- Full watch repair and service center
+
+**Verdict: CORRECT.** 1 brand-owned watch shop confirmed at Asheville, NC on the claimed domain.
+
+---
+
+### P4-13. Allison Craft Designs | www.allisoncraftdesigns.com | 1 location claimed -- WRONG (address correction needed)
+
+**Claimed:** 1 jewelry boutique "inside Margaritaville at 500 Duval St, Key West, FL."
+
+**What we found:** Allison Craft Designs does operate a physical jewelry store in Key West, but the claimed address and location description are **incorrect**:
+
+- **Actual store:** "Pearl Key West" at **431 Front St, Key West, FL 33040**
+- Phone: (305) 926-0246
+- Hours: Closed Sun-Mon; open Tue-Sat
+- Specializes in handmade pearl, leather, and semi-precious stone jewelry
+- Operated by Allison Craft under the retail name "Pearl Key West"
+
+The dataset claims the store is "inside Margaritaville at 500 Duval St." Margaritaville Key West is at 500 Duval St, and while 431 Front St is in the same area of Old Town Key West, **there is no evidence the store is inside the Margaritaville complex**. The store operates under its own name ("Pearl Key West") at a separate address.
+
+Additionally, allisoncraftdesigns.com does not have a store locator page listing the Key West location; the connection is found through external directories linking "Pearl Key West" to allisoncraftdesigns.com.
+
+**Note:** A former Allison Craft Designs location at 26 Logan Ln, Santa Rosa Beach, FL is **permanently closed** per MapQuest.
+
+**Verdict: WRONG -- address and location description need correction.** The store exists in Key West but at 431 Front St (as "Pearl Key West"), NOT at 500 Duval St inside Margaritaville. The address should be corrected to 431 Front St, Key West, FL 33040, and the "inside Margaritaville" description should be removed.
+
+---
+
+### P4-14. Mercedes Campuzano | mercedescampuzano.us | 2 locations claimed -- WRONG (domain attribution issue)
+
+**Claimed:** 2 brand-owned stores in Bogota and Medellin, Colombia, attributed to mercedescampuzano.us.
+
+**What we found:** Mercedes Campuzano is a Colombian fashion brand founded in 2005 in Medellin. The parent brand does have physical retail presence in Colombia -- at minimum a store in Bogota at Carrera 68a #24b-10 was confirmed via Waze, and the brand has a presence in El Tesoro mall in Medellin (eltesoro.com.co/tienda/mercedes-campuzano/).
+
+However, **mercedescampuzano.us** is the US-focused e-commerce domain:
+
+- `site:mercedescampuzano.us` searches for "tiendas," "locations," or "stores" returned **zero results** with physical addresses
+- The .us domain's pages include "How to Buy Online," "Our Brand," "Terms of Use," and product collections -- all e-commerce pages with no store locator
+- The brand page (mercedescampuzano.us/pages/our-brand) describes the brand's origins but does not list physical store locations
+- The .us domain offers free shipping on orders over $150 USD and appears to function purely as an international online shop
+
+The Colombian stores belong to the parent brand's Colombian operations (likely mercedescampuzano.com.co or equivalent), not to the .us e-commerce domain. This is analogous to a US-focused Shopify store being credited with the parent company's international brick-and-mortar locations.
+
+**Verdict: WRONG -- domain attribution error.** mercedescampuzano.us is an e-commerce-only site. The Colombian stores belong to the parent brand, not this US domain. For mercedescampuzano.us specifically, the correct retail location count is **0**, and the revenue estimate of $2.8M from 2 physical stores should be removed or reassigned to the Colombian domain.
+
+---
+
+### P4-15. Noir Leather | noirleather.com | 1 location claimed -- CORRECT
+
+**Claimed:** 1 leather shop in Royal Oak, MI.
+
+**What we found:** noirleather.com confirms a physical store at **124 W 4th St, Royal Oak, MI 48067**:
+
+- Phone: (248) 541-3979
+- Hours: Sun 12-7:30pm, Mon/Wed/Thu 12-8pm, Fri-Sat 12-9pm
+- Founded November 1983 by Keith Howarth; since 2021 owned by Arbor Laclave (veteran and Black-owned)
+- Has a Wikipedia page documenting its cultural significance as "Michigan's original alternative emporium"
+- Sells fetish fashion, club wear, leather goods, bondage accessories, gothic jewelry, and alternative clothing
+- Active and operational with current promotions (BETA10 code for 10% off)
+
+**Verdict: CORRECT.** 1 brand-owned leather/alternative fashion shop confirmed at Royal Oak, MI on the claimed domain. Still open after 40+ years.
+
+---
+
+### Phase 4 Key Issues Found
+
+#### 1. Domain Attribution Errors (3 cases)
+Three entries credit physical locations to the wrong domain:
+
+- **shop.jessebrowns.com** (subdomain) -- 1 store credited, but the Charlotte NC store belongs to the parent domain jessebrowns.com. The subdomain is an e-commerce storefront.
+- **cysmpro.com** (wholesale domain) -- 1 store credited, but the Huntington Park CA store is listed on cysm.com (the retail domain). cysmpro.com is the wholesale/professional ("Mayoristas") portal.
+- **mercedescampuzano.us** (US e-commerce domain) -- 2 Colombian stores credited, but these belong to the parent Colombian brand. The .us domain is an online-only international shop with no store locator.
+
+#### 2. Incorrect Address/Description (1 case)
+- **Allison Craft Designs** -- Store exists in Key West but at 431 Front St (as "Pearl Key West"), NOT "inside Margaritaville at 500 Duval St" as claimed. Address and location description need correction.
+
+#### 3. Correctly Verified (10 cases)
+The remaining 10 entries were confirmed accurate:
+- **Fashionably Yours** -- 1 store at 707 Queen St W, Toronto (consignment boutique, confirmed)
+- **Chesapeake Billiards** -- 2 showrooms in Parkville + Bel Air MD (confirmed on domain)
+- **American Ladders & Scaffolds** -- 2 showrooms in Glastonbury + Milford CT (confirmed on domain)
+- **Rarify** -- 1 showroom at 735 Bainbridge St, Philadelphia (confirmed on domain, open to public)
+- **Meadowbrooke Gourds** -- 1 retail gift shop in Carlisle PA (confirmed as real retail, not just workshop)
+- **Hadley Olivia Mattress** -- 1 superstore in San Juan Capistrano CA (confirmed on domain)
+- **Cheapo Depot 2** -- 1 store in Liberty MO (confirmed on domain)
+- **The Headspace** -- 1 clothing/streetwear store in Denver CO (NOT cannabis; confirmed on domain)
+- **Elephant Floors** -- 1 flooring showroom in Sunnyvale CA (confirmed on domain)
+- **thewatchmakersshop** -- 1 watch shop in Asheville NC at Grove Arcade (confirmed on domain)
+- **Noir Leather** -- 1 leather/alternative shop in Royal Oak MI (confirmed on domain, 40+ years operating)
+
+#### 4. Nature-of-Business Clarifications (2 cases confirmed as expected)
+- **The Headspace** -- Confirmed as a clothing/streetwear/ravewear retailer, NOT a cannabis dispensary. The name is about festival culture, not cannabis.
+- **Meadowbrooke Gourds** -- Confirmed as a 7,000 sqft retail gift shop open to the public, NOT just a workshop/farm.
