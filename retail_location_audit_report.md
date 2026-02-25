@@ -447,3 +447,248 @@ Five additional cases were identified where Shopify/e-commerce subdomains were i
 
 ### Main Domain Correctly Credited (1 confirmation)
 - **jrwatkins.com** -- Main brand domain with legitimate retail store/museum in Winona, MN
+
+---
+
+## Phase 3 Audit: Eliminated Business Verification & Single-Location Edge Cases
+
+**Audit Date:** February 25, 2026
+**Method:** Web search verification of eliminated businesses (checking whether elimination reasons are accurate) and single-location entries (checking whether locations actually exist).
+
+### Phase 3 Summary
+
+| # | Business | Domain | Current Status | Verdict |
+|---|----------|--------|----------------|---------|
+| 1 | Combat Textiles | www.combattextiles.com | Eliminated as "firearms accessories" | CORRECT -- confirmed firearms accessories |
+| 2 | Stuff N' Things By Averie | stuffnthings.shop | Eliminated as "cannabis paraphernalia" | NEEDS CORRECTION -- primarily a handcrafted artisan goods shop; dab tools are 1 of 8+ categories |
+| 3 | Armament Technology Inc. | armament.com | Eliminated as "weapon optics/riflescopes" | CORRECT -- confirmed weapons optics/sighting systems |
+| 4 | Foger Vapes | fogervapes.com | Eliminated as "vaping" | CORRECT -- confirmed disposable vape retailer |
+| 5 | Captain Chucks Flavor Island | www.captainchucksflavorisland.com | Eliminated as "vaping/e-liquid" | CORRECT -- confirmed e-liquid/vaping products |
+| 6 | Concierge Diamonds | conciergediamonds.com | 1 location (Downtown LA) | CORRECT AS-IS |
+| 7 | Elisabeth Weinstock | www.elisabethweinstock.com | 1 location (W 3rd St LA) | CORRECT AS-IS |
+| 8 | Zero Fitness US | zerofitness.us | 1 location (South Gate CA) | CORRECT AS-IS |
+| 9 | Pigeon Mountain Trading | pigeonmountaintrading.com | 1 location (LaFayette GA) | CORRECT AS-IS |
+| 10 | LAND Moto | landmoto.io | 1 location (Cleveland OH) | CORRECT AS-IS |
+| 11 | Luke's Locker | lukeslocker.com | 2 locations (Dallas + Fort Worth) | CORRECT AS-IS |
+| 12 | Recreations Outlet | recreationsoutlet.com | 2 locations (Powell OH + Milford OH) | CORRECT AS-IS |
+
+**Result: 11/12 correct, 1 needs correction**
+
+---
+
+### Phase 3 Detailed Findings -- Eliminated Business Verification
+
+### P3-1. Combat Textiles | www.combattextiles.com | Eliminated as "firearms accessories" -- CORRECT
+
+**Elimination reason:** "Sells custom Cordura wraps and grips designed specifically for firearms (Springfield Prodigy grips, weapon light wraps); firearms-related products prohibited."
+
+**What we found:** Combat Textiles sells custom adhesive wraps and grips cut from 1000D Cordura nylon for firearms. Their product line includes pre-cut covers for:
+- Pistol grips (Glock 17/19, Sig Sauer P365XL, CZ P10F, and others)
+- Rifle stocks (B5 Systems, BCM, A*B Arms models)
+- Weapon lights and optics wraps
+- Magazine wraps
+
+The products use 3M 300LSE adhesive, are designed to resist gun lubricant oils, and are marketed specifically to the firearms community (reviewed on thetruthaboutguns.com, discussed on northwestfirearms.com). They also sell apparel/gear, but the core business is firearm grip wraps.
+
+**Verdict: ELIMINATION CORRECT.** These are purpose-built firearms accessories. The products are designed for and marketed to firearm owners for use on specific gun models.
+
+---
+
+### P3-2. Stuff N' Things By Averie | stuffnthings.shop | Eliminated as "cannabis paraphernalia" -- NEEDS CORRECTION
+
+**Elimination reason:** "Sells '4/20 Friendly' dab tools (cannabis paraphernalia) alongside crafts and knives. Cannabis accessories are prohibited."
+
+**What we found:** Stuff N' Things By Averie is a handmade artisan goods shop based in Salem, MA. The shop's product categories include:
+1. **Beads** -- hand-picked vintage, rare, and exotic materials for lanyards, zipper pulls, jewelry
+2. **Pry tools & multi-tools** -- light-duty scraping/prying tools ($200-320)
+3. **Worry stones & keychains** -- tactile artifacts ($60-80)
+4. **Knives** -- fine steel with exotic wood handles
+5. **Pendants** -- wearable art pieces
+6. **1:64 model cars** -- custom hand-painted scale models ($80-90)
+7. **Material** -- stabilized wood, resin, and vintage synthetics for knife makers
+8. **"4/20 Friendly" items** -- dab tools and accessories
+
+The "4/20 Friendly" category is 1 out of 8 product categories. The shop's primary identity is as a handcrafted artisan goods maker specializing in EDC (everyday carry) items, knives, and collectibles. The dab tools appear to use the same artisan metalworking skills applied to their pry tools and other products -- they are a minor sideline, not the core business.
+
+**Verdict: ELIMINATION LIKELY INCORRECT.** The characterization of this business as "cannabis paraphernalia" misrepresents its primary nature. It is a handcrafted artisan goods shop where dab tools are a small fraction of the product line. If the policy strictly prohibits businesses that sell *any* cannabis accessories regardless of proportion, the elimination is technically defensible but should be re-labeled as "Handcrafted Goods (with minor cannabis accessory sideline)" rather than "Handcrafted Goods/Cannabis Accessories." If the policy allows businesses where cannabis items are incidental to the main product line, this business should be reinstated as eligible.
+
+**Recommended fix:** Change Product Type from "Handcrafted Goods/Cannabis Accessories" to "Handcrafted Goods" and reinstate as eligible (0 retail locations, online-only artisan shop). If strict policy requires elimination for any cannabis items, at minimum correct the characterization to note that cannabis accessories are a minor sideline.
+
+---
+
+### P3-3. Armament Technology Inc. | armament.com | Eliminated as "weapon optics/riflescopes" -- CORRECT
+
+**Elimination reason:** "Sells riflescopes and weapon sighting systems (ELCAN SpecterDR combat optics and military-grade weapon sights) designed for use with firearms; falls under prohibited firearms/weapons accessories category."
+
+**What we found:** Armament Technology Inc. is a dedicated weapons optics company. Their catalog includes:
+- **ELCAN SpecterDR** -- military combat optics (dual-role scopes used on assault rifles)
+- **Tangent Theta** -- precision rifle telescopes (9 items)
+- **SAI Optics** -- scopes designed for competitive marksmen with long-range targeting features
+- **XOPTEK** -- micro reflex sights for firearms
+
+Their "Shop By Use" page is organized around firearms use cases. Free shipping to US and Canada on orders over $200. This is unambiguously a weapons accessories company.
+
+**Verdict: ELIMINATION CORRECT.** Armament Technology sells military-grade and competitive weapons sighting systems designed exclusively for firearms use.
+
+---
+
+### P3-4. Foger Vapes | fogervapes.com | Eliminated as "vaping" -- CORRECT
+
+**Elimination reason:** "Sells disposable vaping devices and e-cigarette products containing nicotine — prohibited under Shopify Payments policy."
+
+**What we found:** Foger Vapes is an online vape retailer specializing in disposable vaping devices:
+- **Foger Bit 35K** -- 35,000-puff disposable vapes in flavors like Sour Kiwi Gush, Watermelon Ice, Cool Mint
+- **Foger Switch Pro Kit** -- 30,000-puff kit with power bank dock and replaceable pods
+- Requires age verification before shipping; customers may need to email government-issued ID
+- $9 flat rate shipping or free over $99
+
+This is a pure vaping/e-cigarette business with no other product lines.
+
+**Verdict: ELIMINATION CORRECT.** Confirmed nicotine vaping product retailer.
+
+---
+
+### P3-5. Captain Chucks Flavor Island | www.captainchucksflavorisland.com | Eliminated as "vaping/e-liquid" -- CORRECT
+
+**Elimination reason:** "Sells DIY e-liquid flavoring concentrates, Box Mod Mafia vaping devices, and vaping accessories; vaping products prohibited."
+
+**What we found:** Captain Chucks Flavor Island sells:
+- **Barrel Brews** -- handcrafted e-liquid flavor concentrates created by mixologists
+- **Box Mod Mafia (BMM) devices** -- vaping hardware
+- **BMM device services** -- "Body Swap" repairs ($100+) and "Spa Day" maintenance ($35+)
+- Lathe-turned acrylic accessories and parts
+- Follows GMP guidelines for consumable products using USP Kosher VG/PG
+
+This is a vaping-focused business. The e-liquid concentrates, mod devices, and repair services are all vaping products/services.
+
+**Verdict: ELIMINATION CORRECT.** Confirmed e-liquid and vaping device/accessories business.
+
+---
+
+### Phase 3 Detailed Findings -- Single-Location Edge Cases
+
+### P3-6. Concierge Diamonds | conciergediamonds.com | 1 location claimed -- CORRECT AS-IS
+
+**Concern:** Is this a real retail/showroom location or just an office?
+
+**What we found:** Concierge Diamonds has a headquarters in Downtown Los Angeles where they offer in-person custom design consultations. They can be reached at (213) 261-4330. Consultations can be scheduled in-person at their Downtown LA headquarters or virtually via Zoom. They specialize in bespoke custom engagement rings and fine jewelry.
+
+**Assessment:** For the luxury jewelry industry, appointment-only showrooms are standard practice. The dataset already correctly accounts for this with a 0.7 traffic discount factor (low traffic/appointment only) in the revenue estimate. The location functions as a real consultation space where customers interact with products and make purchases.
+
+**Verdict: CORRECT AS-IS.** 1 appointment-only showroom in Downtown LA, properly discounted for low foot traffic.
+
+---
+
+### P3-7. Elisabeth Weinstock | www.elisabethweinstock.com | 1 location claimed -- CORRECT AS-IS
+
+**Concern:** Does the W 3rd St LA flagship store still exist?
+
+**What we found:** The flagship store at **8159 West Third Street, Los Angeles, CA 90048** is confirmed active:
+- Open Monday through Friday, 10:30 AM to 5:30 PM
+- Phone: 323-413-2022
+- Offers valet parking
+- Serves as both retail flagship and corporate office
+- Sells exotic snakeskin fashion, handbags, home decor, and art accessories
+- Listed on MapQuest with current hours
+
+The brand also maintains an East Coast corporate office in New York (not a retail location).
+
+**Verdict: CORRECT AS-IS.** Flagship store confirmed open at 8159 W 3rd St, LA.
+
+---
+
+### P3-8. Zero Fitness US | zerofitness.us | 1 location claimed -- CORRECT AS-IS
+
+**Concern:** Does this showroom exist on the website?
+
+**What we found:** Zero Fitness US lists a showroom at **5625 Firestone Blvd, South Gate, CA 90280** on both their Contact page and About Us page:
+- Phone: (323) 413-5286
+- Email: help@zerofitness.us
+- Appointment required to visit
+- Virtual tours available for those who can't visit in person
+
+The dataset correctly identifies this as an appointment-only showroom with a 0.7 traffic discount.
+
+**Verdict: CORRECT AS-IS.** Showroom confirmed at South Gate, CA.
+
+---
+
+### P3-9. Pigeon Mountain Trading | pigeonmountaintrading.com | 1 location claimed -- CORRECT AS-IS
+
+**Concern:** Is this a real retail store or just a warehouse?
+
+**What we found:** Pigeon Mountain Trading Company is a genuine retail store at **106 N Main St, LaFayette, GA 30728**:
+- Phone: (706) 638-1491
+- Regular retail hours: Mon-Fri 9am-6pm, Sat 9am-3pm, Sunday closed
+- Named LaFayette's Downtown Business of the Month in 2010
+- Full-service beekeeping supply store with public-facing retail
+- Sells package bees, nucs, queen bees, hives, protective gear, honey extraction equipment
+- Has a "Bee Boutique" section with gifts for non-beekeepers
+- Draws customers from Georgia, Tennessee, and Birmingham
+
+This is clearly a real, public-facing retail store -- not a warehouse. It has posted hours, walk-in traffic, and a downtown Main Street location.
+
+**Verdict: CORRECT AS-IS.** Confirmed real retail store in LaFayette, GA.
+
+---
+
+### P3-10. LAND Moto | landmoto.io | 1 location claimed -- CORRECT AS-IS
+
+**Concern:** Does the Cleveland OH showroom exist?
+
+**What we found:** LAND Moto's showroom and headquarters are at **1265 West 65th Street, Cleveland, Ohio 44102**:
+- Phone: +1 (216) 236-3111
+- Email: hello@LAND.email
+- Listed on their Contact page
+- The company designs, engineers, and hand-builds electric motorcycles (District Scrambler and Street models)
+- Also has a dealer locator for additional authorized dealers across the USA
+
+**Verdict: CORRECT AS-IS.** Showroom confirmed at Cleveland, OH.
+
+---
+
+### P3-11. Luke's Locker | lukeslocker.com | 2 locations claimed -- CORRECT AS-IS
+
+**Concern:** Luke's Locker historically had more stores but some closed. Are the 2 claimed locations still accurate?
+
+**What we found:** lukeslocker.com/pages/stores lists exactly 2 locations:
+
+1. **Dallas** -- 3046 Mockingbird Lane, Dallas, TX 75205 (214-528-1290), M-F 10am-6pm, Sat 10am-6pm, Sun 12pm-5pm
+2. **Fort Worth** -- The Shops at Clearfork, 5255 Monahans Avenue, Fort Worth, TX 76109 (817-877-1448), M-F 10am-6pm, Sat 9am-7pm, Sun 12pm-5pm
+
+**Historical context:** Luke's Locker filed for Chapter 11 bankruptcy in January 2017 after closing 5 stores (Houston, The Woodlands, Austin, Plano, Southlake). The company previously had locations across Texas but restructured down to its current 2-store footprint in DFW.
+
+**Verdict: CORRECT AS-IS.** 2 locations confirmed; both match the dataset's addresses exactly.
+
+---
+
+### P3-12. Recreations Outlet | recreationsoutlet.com | 2 locations claimed -- CORRECT AS-IS
+
+**Concern:** Do both locations exist on the website?
+
+**What we found:** recreationsoutlet.com/pages/contact-us lists exactly 2 locations:
+
+1. **Powell, OH** -- 484 W Olentangy/Powell Road, Powell, OH 43065 (614-792-3700), M-Th 9am-6pm, Fri 9am-5pm, Sat 10am-5pm, Sun 12pm-5pm
+2. **Milford, OH** -- 885 Business 28, Milford, OH 45150 (513-831-7383), M-Th 9am-6pm, Fri-Sat 9am-6pm, Sun 12pm-6pm
+
+Both locations are large showrooms selling outdoor play equipment (wooden swing sets, trampolines, basketball hoops, golf carts).
+
+**Verdict: CORRECT AS-IS.** 2 locations confirmed; both match the dataset.
+
+---
+
+### Phase 3 Key Findings
+
+#### Eliminations Verified (4 of 5 correct)
+- **Combat Textiles** -- Correctly eliminated; confirmed firearms grip/accessory manufacturer
+- **Armament Technology Inc.** -- Correctly eliminated; confirmed weapons optics company
+- **Foger Vapes** -- Correctly eliminated; confirmed vaping/e-cigarette retailer
+- **Captain Chucks Flavor Island** -- Correctly eliminated; confirmed e-liquid/vaping business
+
+#### Elimination Potentially Incorrect (1 of 5)
+- **Stuff N' Things By Averie** -- Mislabeled as "cannabis paraphernalia" shop. The business is primarily a handcrafted artisan goods shop (beads, pry tools, worry stones, knives, pendants, model cars, crafting materials) where "4/20 Friendly" dab tools represent 1 of 8+ product categories. If the elimination policy is strictly "any cannabis accessory = eliminated," the elimination is technically defensible but the product type label should be corrected. If the policy considers proportionality, this business should be reinstated.
+
+#### Single-Location Entries All Verified (7 of 7 correct)
+All seven single-location entries were confirmed accurate:
+- Concierge Diamonds, Elisabeth Weinstock, Zero Fitness US, Pigeon Mountain Trading, LAND Moto -- all 1-location claims verified
+- Luke's Locker, Recreations Outlet -- both 2-location claims verified with exact address matches
